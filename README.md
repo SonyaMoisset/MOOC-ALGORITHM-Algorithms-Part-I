@@ -13,3 +13,4 @@ Part I focuses on elementary data structures, sorting, and searching. Topics inc
 ### 29/02/2016
 - Enrolled in the program
 - Finished Welcome to Algorithm, Part I
+- Finished Union-Find
